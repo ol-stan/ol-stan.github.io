@@ -1,7 +1,6 @@
 # Oleh Stankevich
 My homework:  
-1.
-2.
-3.
-4.
-
+0.[Введение в HTML](https://ol-stan.github.io/resume/ "Резюме на двух языках")
+0.
+0.
+0.

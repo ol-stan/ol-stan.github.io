@@ -1,5 +1,5 @@
 # Oleh Stankevich
-My home work
+My homework:
 1.
 2.
 3.

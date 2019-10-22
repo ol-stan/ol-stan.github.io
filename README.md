@@ -5,4 +5,4 @@
 3. [Git](https://ol-stan.github.io/resume/ "Резюме на двух языках")  
 4. Знакомство с CSS: [My simple website](https://ol-stan.github.io/my-simple-website/ "Первое задание 4-го урока") и [www.yourcompany.com](https://ol-stan.github.io/yourcompany/ "Второе задание 4-го урока")  
 5. [Photoshop для Front-End](https://ol-stan.github.io/about-me/ "About me")  
-6. CSS-селекторы: [Services.psd](https://ol-stan.github.io/services/ "Первое задание 6-го урока") и CSS shopping list  
+6. CSS-селекторы: [Services.psd](https://ol-stan.github.io/services/ "Первое задание 6-го урока") и [CSS Shopping List](https://ol-stan.github.io/css-shopping-list/ "Второе задание 6-го урока")  

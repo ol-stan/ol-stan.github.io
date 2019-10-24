@@ -7,3 +7,4 @@
 5. [Photoshop для Front-End](https://ol-stan.github.io/about-me/ "About me")  
 6. CSS-селекторы: [Services.psd](https://ol-stan.github.io/services/ "Первое задание 6-го урока") и [CSS Shopping List](https://ol-stan.github.io/css-shopping-list/ "Второе задание 6-го урока")  
 7. CSS Box Model: [Newsletter](https://ol-stan.github.io/newsletter/), [Namaste green](https://ol-stan.github.io/namaste/) и Прогноз погоды
+8. Flexbox

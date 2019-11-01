@@ -10,4 +10,4 @@
 8. Flexbox: [Any Project](https://ol-stan.github.io/any-progect/ "Задание 8-го урока"), [Cups of Coffee](https://ol-stan.github.io/cups-of-coffee/ "Первое домашнее задание 8-го урока") и Блог ноябрь 2015  
 9. Font Face: [Willow Crest](https://ol-stan.github.io/willow-crest/ "Первое домашнее задание 9-го урока") и [Text Editor Fonts](https://ol-stan.github.io/text-editor-fonts/ "Второе домашнее задание 9-го урока")  
 10. CSS-позиционирование и трансформация: [Quotes](https://ol-stan.github.io/quotes/ "Классная работа")  
-11. БЭМ: Nike, [Cahee](https://ol-stan.github.io/cahee/ "Домашнее задание 11-го урока")  
+11. БЭМ: Nike и [Cahee](https://ol-stan.github.io/cahee/ "Домашнее задание 11-го урока")  

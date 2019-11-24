@@ -18,4 +18,4 @@
 16. Responsive navigation: [Cahee](https://ol-stan.github.io/cahee/)
 17. Responsive graphics
 
-Exam-work: https://ol-stan.github.io/Bhromaon/.
+[Exam-work](https://ol-stan.github.io/Bhromaon/)

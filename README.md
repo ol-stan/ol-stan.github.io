@@ -19,3 +19,5 @@
 17. Responsive graphics
 
 [Exam-work](https://ol-stan.github.io/Bhromaon/)
+
+22. [JavaScript](https://ol-stan.github.io/js_01/)

@@ -23,3 +23,5 @@
 21. [Exam-work](https://ol-stan.github.io/Bhromaon/)
 
 22. [JavaScript](https://ol-stan.github.io/js_01/)
+23. Типы данных и операторы
+24. Циклы

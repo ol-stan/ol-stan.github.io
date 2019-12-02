@@ -25,5 +25,5 @@
 ---
 
 22. [JavaScript](https://ol-stan.github.io/js_01/)
-23. Типы данных и операторы
+23. [Типы данных и операторы](https://ol-stan.github.io/js-if-switch/)
 24. Циклы

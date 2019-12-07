@@ -28,3 +28,5 @@
 23. [Data Types and Operators](https://ol-stan.github.io/js-if-switch/)
 24. Cycles
 25. [Functions](https://ol-stan.github.io/functions/)
+26. [Objects](https://ol-stan.github.io/objects/)
+27. Arrays

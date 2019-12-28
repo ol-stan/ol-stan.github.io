@@ -11,22 +11,26 @@
 9. Font Face: [Willow Crest](https://ol-stan.github.io/willow-crest/ "Первое домашнее задание 9-го урока") и [Text Editor Fonts](https://ol-stan.github.io/text-editor-fonts/ "Второе домашнее задание 9-го урока")  
 10. CSS-позиционирование и трансформация: [Quotes](https://ol-stan.github.io/quotes/ "Классная работа")  
 11. БЭМ: [Nike](https://ol-stan.github.io/nike-product-card/ "Задание 11 урока") и [Cahee](https://ol-stan.github.io/cahee/ "Домашнее задание 11-го урока")  
-12. Строим формы: [Payment Form](https://ol-stan.github.io/payment-form/), [Contact Cahee](https://ol-stan.github.io/cahee-contact/ "Первое домашнее задание 12-го урока") и [Sign-in Form](https://ol-stan.github.io/sign-in-form/ "Второе домашнее задание 12-го урока")
-13. Scalable Vector Graphics (SVG)
-14. Prepros SCSS: [Our team](https://ol-stan.github.io/our-team/)
-15. Responsive Web Design: [Cahee](https://ol-stan.github.io/cahee/)
-16. Responsive navigation: [Cahee](https://ol-stan.github.io/cahee/)
-17. Responsive graphics
-18. Git командная разработка
-19. Кроссбраузерность
-20. SEO
-21. [Exam-work](https://ol-stan.github.io/Bhromaon/)
+12. Строим формы: [Payment Form](https://ol-stan.github.io/payment-form/), [Contact Cahee](https://ol-stan.github.io/cahee-contact/ "Первое домашнее задание 12-го урока") и [Sign-in Form](https://ol-stan.github.io/sign-in-form/ "Второе домашнее задание 12-го урока")  
+13. Scalable Vector Graphics (SVG)  
+14. Prepros SCSS: [Our team](https://ol-stan.github.io/our-team/)  
+15. Responsive Web Design: [Cahee](https://ol-stan.github.io/cahee/)  
+16. Responsive navigation: [Cahee](https://ol-stan.github.io/cahee/)  
+17. Responsive graphics  
+18. Git командная разработка  
+19. Кроссбраузерность  
+20. SEO  
+21. [Exam-work](https://ol-stan.github.io/Bhromaon/)  
   
 ---
 
-22. [JavaScript](https://ol-stan.github.io/js_01/)
-23. [Data Types and Operators](https://ol-stan.github.io/js-if-switch/)
-24. Cycles
-25. [Functions](https://ol-stan.github.io/functions/)
-26. [Objects](https://ol-stan.github.io/objects/)
-27. Arrays
+22. [JavaScript](https://ol-stan.github.io/js_01/)  
+23. [Data Types and Operators](https://ol-stan.github.io/js-if-switch/)  
+24. Cycles  
+25. [Functions](https://ol-stan.github.io/functions/)  
+26. [Objects](https://ol-stan.github.io/objects/)  
+27. Arrays  
+28. Classes  
+29. Document Object Model (DOM)  
+30. Events  
+31. jQuery: [Accordion](https://ol-stan.github.io/jquery-31/)  

@@ -33,4 +33,5 @@
 28. Classes  
 29. Document Object Model (DOM)  
 30. Events  
-31. jQuery: [Accordion](https://ol-stan.github.io/jquery-31/)  
+31. jQuery: [Accordion](https://ol-stan.github.io/jquery-31/)   
+32. Slick Slider [Owl Carousel](https://ol-stan.github.io/slider-owl/)  

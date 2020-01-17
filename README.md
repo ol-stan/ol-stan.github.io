@@ -35,3 +35,6 @@
 30. Events  
 31. jQuery: [Accordion](https://ol-stan.github.io/jquery-31/)   
 32. Slick Slider [Owl Carousel](https://ol-stan.github.io/slider-owl/)  
+
+
+37. CSS Animations [Playing Cards](https://ol-stan.github.io/playing-cards/)

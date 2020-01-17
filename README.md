@@ -38,7 +38,11 @@
 33. AJAX
 34. Google Maps API
 35. Web Storage
-36. [Exam-work": Architecture - простой сайт + JS]
+36. [Exam-work: Architecture - простой сайт + JS](https://ol-stan.github.io/monticello/)
 
+---
 
 37. CSS Animations [Playing Cards](https://ol-stan.github.io/playing-cards/)
+38. CSS Grid Layout
+39. Gulp
+40. Webpack

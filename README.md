@@ -38,7 +38,7 @@
 33. AJAX
 34. Google Maps API
 35. Web Storage
-36. [Exam-work: Architecture - простой сайт + JS](https://ol-stan.github.io/monticello/)
+36. [Exam-work: Architecture - простой сайт + JS](https://ol-stan.github.io/monticello/ "Monticello")
 
 ---
 

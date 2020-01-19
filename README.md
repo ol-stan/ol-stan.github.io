@@ -46,4 +46,4 @@
 38. CSS Grid Layout
 39. Gulp
 40. Webpack
-41. Vue.js
+41. Vue.js [Todo list](https://ol-stan.github.io/vue-todo/)

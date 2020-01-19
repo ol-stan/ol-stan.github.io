@@ -46,3 +46,4 @@
 38. CSS Grid Layout
 39. Gulp
 40. Webpack
+41. Vue.js
